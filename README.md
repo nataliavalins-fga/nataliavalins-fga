@@ -3,7 +3,7 @@
 
 
 ![Natalia's GitHub stats](https://github-readme-stats.vercel.app/api?username=nataliavalins-fga&show_icons=true&theme=onedark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nataliavalins-fga&langs_count=&layout=compact&theme=onedark)](https://github.com/nataliavalins-fga/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nataliavalins-fga&langs_count=&layout=compact&theme=onedark)](https://github.com/nataliavalins-fga/github-readme-stats) -->
 
 ##
 
