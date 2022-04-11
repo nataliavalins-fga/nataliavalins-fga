@@ -1,12 +1,18 @@
 
-# - 👋 Hi, I’m Natalia Alves! (@nataliavalins-fga here)
+# - 👋 Hi, I’m Natalia Alves!
+
+
+![Natalia's GitHub stats](https://github-readme-stats.vercel.app/api?username=nataliavalins-fga&show_icons=true&theme=onedark)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nataliavalins-fga&layout=compact&theme=onedark)](https://github.com/nataliavalins-fga/github-readme-stats) -->
+
+
 - 👀 I’m interested in programming, movies, tv series, photography, music and travel.
-- 🎓  I’m currently learning how to be a full stack developer at [Labenu](https://www.labenu.com.br/). 
-- 🌱 I’m currently learning **Javascript**, **CSS**, **HTML** and **React**
-- 💞️ I’m looking to collaborate on social issues and to help other people learn as much as I can with the knowledge I've got so far.
+- 🎓 At the moment I’m doing a web full stack bootcamp at [Labenu](https://www.labenu.com.br/). 
+- 🚀 I have published projects in **Javascript**, **CSS**, **HTML** and **React**
+- 🌱 I'm currently learning **Typescript**, **Express** and **MySQL**
 - 📫 How to reach me nataliavalins@gmail.com
 
-<!--- # 🚀 My Skills --->
+
 
 
 <!---
