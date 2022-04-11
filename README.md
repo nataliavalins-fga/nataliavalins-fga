@@ -7,6 +7,10 @@
 
 ##
 
+<div>
+<img allign="left" heigh: "80" width= "120"  src="https://user-images.githubusercontent.com/89141117/162834616-5a8e4c70-0f0d-4f29-bb74-de7527c0189c.png" />
+</div>
+
 - 👀 I’m interested in programming, movies, tv series, photography, music and travel.
 - 🎓 At the moment I’m doing a web full stack bootcamp at [Labenu](https://www.labenu.com.br/). 
 - 🚀 I have published projects in **Javascript**, **CSS**, **HTML** and **React**
@@ -22,9 +26,9 @@
 <img allign="center" heigh: "30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img allign="center" heigh: "30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img allign="center" heigh: "30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
-<img allign="center" heigh: "30" width= "40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-          
+<img allign="center" heigh: "30" width= "40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> 
 </div>
+
 
 ##
 
