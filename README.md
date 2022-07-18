@@ -20,9 +20,9 @@
 <img allign="left" heigh: "80" width= "120"  src="https://user-images.githubusercontent.com/89141117/162834616-5a8e4c70-0f0d-4f29-bb74-de7527c0189c.png" />
 </div>
 
-## 🎧 What's Vibin?
+<!-- ## 🎧 What's Vibin?
 
-[![Spotify](https://github.com/nataliavalins-fga/nataliavalins-fga/blob/main/spotify.svg)](https://open.spotify.com/user/12142783093)
+[![Spotify](https://github.com/nataliavalins-fga/nataliavalins-fga/blob/main/spotify.svg)](https://open.spotify.com/user/12142783093) -->
 
 
 ##
