@@ -2,6 +2,13 @@
 # - 👋 Hi, I’m Natalia Alves!
 
 
+- 👀 I’m interested in programming, movies, tv series, photography, music and travel.
+- 🎓 At the moment I’m doing a web full stack bootcamp at [Labenu](https://www.labenu.com.br/). 
+- 🚀 I have published projects in **Javascript**, **CSS**, **HTML** and **React**
+- 🌱 I'm currently learning **Typescript**, **Express** and **MySQL**
+- 📫 How to reach me nataliavalins@gmail.com
+
+
 ![Natalia's GitHub stats](https://github-readme-stats.vercel.app/api?username=nataliavalins-fga&show_icons=true&theme=onedark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nataliavalins-fga&langs_count=&layout=compact&theme=onedark)](https://github.com/nataliavalins-fga/github-readme-stats)
 
@@ -11,11 +18,6 @@
 <img allign="left" heigh: "80" width= "120"  src="https://user-images.githubusercontent.com/89141117/162834616-5a8e4c70-0f0d-4f29-bb74-de7527c0189c.png" />
 </div>
 
-- 👀 I’m interested in programming, movies, tv series, photography, music and travel.
-- 🎓 At the moment I’m doing a web full stack bootcamp at [Labenu](https://www.labenu.com.br/). 
-- 🚀 I have published projects in **Javascript**, **CSS**, **HTML** and **React**
-- 🌱 I'm currently learning **Typescript**, **Express** and **MySQL**
-- 📫 How to reach me nataliavalins@gmail.com
 
 ##
 
