@@ -12,7 +12,7 @@
 
 
 ![Natalia's GitHub stats](https://github-readme-stats.vercel.app/api?username=nataliavalins-fga&show_icons=true&theme=onedark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nataliavalins-fga&langs_count=&layout=compact&theme=onedark&include_forks=true)](https://github.com/nataliavalins-fga/github-readme-stats)
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliavalins-fga&layout=compact&langs_count=7&theme=onedark&include_forks=true"/>
 
 ##
 
