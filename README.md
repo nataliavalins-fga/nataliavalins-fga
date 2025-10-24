@@ -17,8 +17,8 @@
 ##
 
 <div>
-<img allign="left" heigh: "80" width= "120"  src="https://user-images.githubusercontent.com/89141117/162834616-5a8e4c70-0f0d-4f29-bb74-de7527c0189c.png" />
-</div>
+<!--<img allign="left" heigh: "80" width= "120"  src="https://user-images.githubusercontent.com/89141117/162834616-5a8e4c70-0f0d-4f29-bb74-de7527c0189c.png" />
+</div>-->
 
 <!-- ## 🎧 What's Vibin?
 
