@@ -7,7 +7,7 @@
 - 👀 I’m interested in programming, movies, tv series, photography, music and travel.
 - 🎓 At the moment I’m doing a web full stack bootcamp at [Labenu](https://www.labenu.com.br/). 
 - 🚀 I have published projects in **Javascript**, **CSS**, **HTML** and **React**
-- 🌱 I'm currently learning **Typescript**,**.Net**, **Angular** and **MySQL**
+- 🌱 I'm currently learning **Typescript**, **.Net**, **Angular** and **MySQL**
 - 📫 How to reach me nataliavalins@gmail.com
 
 
